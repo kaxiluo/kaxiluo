@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaxiluo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kaxiluo. Also called lyy, yezhu, ![063EAAE9](https://user-images.githubusercontent.com/32103283/183579465-ab745e19-4d92-4e38-a194-422b0e685d2e.png)
+
+- 👀 I’m interested in coding
+
+- ✍️ I’m blog at [www.kxler.com](https://www.kxler.com)
 
 <!---
 kaxiluo/kaxiluo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
